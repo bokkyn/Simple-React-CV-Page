@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background: #22222E;
+  margin-top: 20px;
+
+  background: rgb(34,34,62);
+  background: linear-gradient(0deg, rgba(34,34,46,1) 35%, rgba(34,34,62,1) 100%);
+}
+
+#root {
+  width: auto;
+}
+
